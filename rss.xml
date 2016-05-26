@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kungfucarlos]]></title>
+        <description><![CDATA[kungfucarlos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 23:06:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can you be happy and ambitious?]]></title>
+            <description><![CDATA[<h1>Can you be happy and ambitious?</h1>]]></description>
+            <link>undefinedcan-you-be-happy-and-ambitious/index.html</link>
+            <guid isPermaLink="false">78dc70e1-265b-4356-910e-d93396962df9</guid>
+            <pubDate>Thu, 26 May 2016 23:06:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
